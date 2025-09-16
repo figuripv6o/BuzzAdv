@@ -1,0 +1,11 @@
+This is the first portable BLE decoder that:
+
+Cross-maps Assigned Numbers
+
+Flags spoof/mismatch anomalies
+
+Teaches while you scan
+
+
+Runs on Termux, Linux, Mac, Windows, Web, Mobile.
+One-of-one Buzzanator drop.
